@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### install node module using `npm install`
+### `npm install`
+install node modules and dependencies 
 
 ## Available Scripts
 
@@ -12,6 +13,16 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+page consists of following routes:
+
+Home Route : 
+ Displayed a list of books with details such as title, author, genre, and rating.
+ The books should be displayed in a grid format with a search functionality and genre filter.
+
+BookeDetails Route :
+
+SavedBooks Route
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
