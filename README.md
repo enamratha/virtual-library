@@ -21,8 +21,14 @@ Home Route :
  The books should be displayed in a grid format with a search functionality and genre filter.
 
 BookeDetails Route :
+- When a book is clicked from the Home page, it is navigated to a detailed view page.
+- Displayed detailed information about the selected book including title, author, genre,
+rating, description, and publication year.
+- Provided an option to add the book to the "My Library" collection.
 
-SavedBooks Route
+SavedBooks Route:
+- A separate page that shows the list of books the user has added to their personal
+library.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
