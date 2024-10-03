@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/book-library/static/js/main.00f5f6d4.js",
+    "index.html": "/book-library/index.html",
+    "main.00f5f6d4.js.map": "/book-library/static/js/main.00f5f6d4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.00f5f6d4.js"
+  ]
+}
